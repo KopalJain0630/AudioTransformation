@@ -1,5 +1,5 @@
 Advancements in End-to-End Audio Style Transformation: A Differentiable Approach for Voice Conversion and Musical Style Transfer
-This is an article submitted to MDPI for publishing, authored by Shashwat Aggarwal, Shashwat U􀄴am, Sameer Garg, Shubham Garg, Kopal Jain and Swati Aggarwal.
+This is an article submitted to MDPI AI 2024 for publishing, authored by Shashwat Aggarwal, Shashwat U􀄴am, Sameer Garg, Shubham Garg, Kopal Jain and Swati Aggarwal.
 Keywords: Voice Conversion; Musical Style Transfer; Audio Transformations; End-to-End Audio Pipeline
 
 We introduce a fully differentiable end-to-end audio transformation network designed to convert the style of one audio sample to another. 
