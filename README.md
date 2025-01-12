@@ -4,7 +4,7 @@ Keywords: Voice Conversion; Musical Style Transfer; Audio Transformations; End-t
 
 We introduce a fully differentiable end-to-end audio transformation network designed to convert the style of one audio sample to another. 
 This method offers three significant advantages: 
-(a) it operates without the need for parallel u􀄴erances, transcriptions, or time alignment processes
+(a) it operates without the need for parallel utterances, transcriptions, or time alignment processes
 (b) it utilizes a global conditioning mechanism, making it vocabulary agnostic and capable of transforming audio styles regardless of the target identity
 (c) it performs one-shot audio transformations without intermediate phonetic representations
 
