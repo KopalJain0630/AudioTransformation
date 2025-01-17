@@ -1,4 +1,4 @@
-##Advancements in End-to-End Audio Style Transformation: A Differentiable Approach for Voice Conversion and Musical Style Transfer
+## Advancements in End-to-End Audio Style Transformation: A Differentiable Approach for Voice Conversion and Musical Style Transfer
 
 This is an article published in AI 2025 by MDPI (DOI: 10.3390/ai6010016), authored by Shashwat Aggarwal, Shashwat Uttam, Sameer Garg, Shubham Garg, Kopal Jain and Dr Swati Aggarwal. [Publication URL](https://www.mdpi.com/2673-2688/6/1/16)
 
