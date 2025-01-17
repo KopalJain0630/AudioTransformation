@@ -3,6 +3,7 @@
 This is an article published in AI 2025 by MDPI (DOI: 10.3390/ai6010016), authored by Shashwat Aggarwal, Shashwat Uttam, Sameer Garg, Shubham Garg, Kopal Jain and Dr Swati Aggarwal. [Publication URL](https://www.mdpi.com/2673-2688/6/1/16)
 
 Keywords: Voice Conversion; Musical Style Transfer; Audio Transformations; End-to-End Audio Pipeline.
+
 We introduce a fully differentiable end-to-end audio transformation network designed to convert the style of one audio sample to another. 
 
 This method offers three significant advantages: 
